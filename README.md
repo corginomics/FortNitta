@@ -1,7 +1,7 @@
 # FortNitta
 #### A castle defense game for Android.
 
-A working apk is available [here](http://marshallhampson.com/fortnitta).
+A working apk and installation instructions are available [here](http://marshallhampson.com/fortnitta).
 
 However, this source code currently not working because its missing graphic sprites and sound due to those being copywritten.  I plan on replacing those with ones that are either open-source or I own.
 
